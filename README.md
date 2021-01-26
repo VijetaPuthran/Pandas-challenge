@@ -19,5 +19,5 @@ The data provided for this assignment is of a gaming company that consists of th
 
 * Most popular items: To determine the most popular items, the columns items were grouped and then by using the count and mean functions, the purchase count and average item price were calculated. The product of these resulted in total purchase value. Sorting of these numbers in the dataframe resulted in the table of most popular items. 
 
-* Most profitable items: The most popular items were sorted, based on the total purchase value to arrive at the most profitable items. 
+* Most profitable items: The most popular items were sorted, based on the total purchase value to arrive at the most profitable items. The item that has the highest purchase count is 'Final Critic' with a total purchase value of $59.99.
  
